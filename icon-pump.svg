@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-12 -16 24 32">
+	<!-- (c) 2021 Andreas Heese -->
+	<g id="icon-pump" style="stroke:black; stroke-width:1; fill:none; stroke-linecap:round; stroke-linejoin:round; fill:silver">
+		<path d="M-8 12 L-8 -10 A2 2 0 0 1 -6 -12 L6 -12 A2 2 0 0 1 8 -10 L8 12 Z" />
+		<rect x="-5" y="-9" width="10" height="6"/>
+		<line x1="0.7" y1="4" x2="0.7" y2="10"/>
+		<line x1="3.7" y1="4" x2="3.7" y2="10"/>
+		<rect x="0" y="-1" rx="0.7" ry="0.7" width="1.4" height="5"/>
+		<rect x="3" y="-1" rx="0.7" ry="0.7" width="1.4" height="5"/>
+	</g>
+</svg>
