@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-16 -16 32 32">
+	<!-- Creative Commons Zero CC0 1.0 License - 2021 - Andreas Heese -->
+	<g id="icon-electricity" style="stroke:black; stroke-width:1; fill:none; stroke-linecap:round; stroke-linejoin:round; fill:silver">
+		<rect x="-12" y="-12" rx="5" ry="5" width="24" height="24" stroke="none"/>
+		<path d="M0 -1.5 L5 -1.5 L-1 9 L0 1.5 L-5 1.5 L1 -9 Z" />
+	</g>
+</svg>
