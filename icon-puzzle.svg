@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-16 -16 32 32">
 	<!-- Creative Commons Zero CC0 1.0 License - 2021 - Andreas Heese -->
-	<g id="icon-puzzle" style="stroke:black; stroke-width:1; fill:none; stroke-linecap:round; stroke-linejoin:round; fill:silver">
+	<g id="icon-puzzle" style="stroke:black; stroke-width:1; stroke-linecap:round; stroke-linejoin:round; fill:silver">
 		<defs>
 			<path id="puzzle" d="M0 0 L3 0 L3 1.2 A1.8 1.8 0 1 0 5 1.2 L 5 0 L8 0 L8 8 L0 8 L0 5 L-1.2 5  A1.8 1.8 0 1 1 -1.2 3 L0 3 Z" />
 		</defs>
