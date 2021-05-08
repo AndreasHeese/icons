@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-16 -16 32 32">
 	<!-- Creative Commons Zero CC0 1.0 License - 2021 - Andreas Heese -->
-	<g id="icon-car-moving" style="stroke:black; stroke-width:1; fill:none; stroke-linecap:round; stroke-linejoin:round; fill:silver">
+	<g id="icon-car-moving" style="stroke:black; stroke-width:1; stroke-linecap:round; stroke-linejoin:round; fill:silver">
 		<path d="M12 6.3 L13 6.3 A1 1 0 0 0 14 5.3 L14 1 A1 1 0 0 0 13 0 L-4 0 C-5.2 -0.1 -5.2 -0.6 -5 -2 L-4 -6.3 L-7 -6.3 L-10 0 L-10 5.3 A1 1 0 0 0 -9 6.3 L-8 6.3" />
 		<line x1="-4" y1="-6.3" x2="4" y2="-6.3"/>
 		<line x1="4" y1="-6.3" x2="7" y2="0"/>
